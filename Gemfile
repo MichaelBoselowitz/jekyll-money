@@ -5,4 +5,4 @@ gemspec
 
 gem "jekyll", "~> 3.3"
 gem "money", "~> 6.8"
-gem "bigdecimal", '~> 1.3'
+gem "bigdecimal", '~> 3.1.2'
