@@ -28,13 +28,13 @@ module JekyllMoney
     # @see http://www.rubydoc.info/gems/money/
     def defaults
       {
-        "conversion_precision" => Money.conversion_precision,
-        "default_bank" => Money.default_bank,
-        "default_currency" => Money.default_currency,
+        # "conversion_precision" => Money.conversion_precision,
+        # "default_bank" => Money.default_bank,
+        # "default_currency" => Money.default_currency,
         # "default_formatting_rules" => Money.default_formatting_rules,
-        "infinite_precision" => Money.default_infinite_precision,
-        "rounding_mode" => Money.rounding_mode,
-        "use_i18n" => Money.use_i18n
+        # "infinite_precision" => Money.default_infinite_precision,
+        # "rounding_mode" => Money.rounding_mode,
+        # "use_i18n" => Money.use_i18n
       }
     end
   end
