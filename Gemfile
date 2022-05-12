@@ -3,6 +3,6 @@ source 'https://rubygems.org'
 # Specify your gem's dependencies in jekyll-money.gemspec
 gemspec
 
-gem "jekyll", "~> 4.2.2"
-gem "money", "~> 6.16"
-gem "bigdecimal", '~> 3.1.2'
+gem "jekyll"
+gem "money"
+gem "bigdecimal"
